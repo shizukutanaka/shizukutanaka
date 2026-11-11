@@ -14,7 +14,7 @@ Personal software workshop — small tools built and maintained by one person.
 
 ## 全リポジトリ一覧 / All repositories
 
-実測に基づく全リポジトリの一覧（玄関ポータル）: [ポータルを開く](https://muse.ai/s/xuan-guan-potaru-ja6aqxqxlpxbxnxl/DpY3e_2xwrRyU5918RAV9v0G3UfbMvPX0HeuI-0ab-s)
+実測に基づく全リポジトリの一覧（玄関ポータル）: [ポータルを開く](https://muse.ai/s/project-portal-bf6avrxu7xyfxl/6PgvpkK4Nn1DPotxc3edgYXaYZgDC5_LeWpXkf1wsrg)
 
 ## 寄付 / Donations
 
